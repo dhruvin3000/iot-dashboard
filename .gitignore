@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+*.egg
+
+# JavaScript/Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.eslintcache
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+config.local.js
+secrets.json
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+config.php
+database.yml
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
